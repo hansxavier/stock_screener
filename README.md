@@ -1,5 +1,5 @@
 # Financial Dashboards
-Streamlit dashboard examples - Twitter cashtags, StockTwits, WSB, Charts, SQL Pattern Scanner
+Twitter cashtags, StockTwits, WSB, Charts, SQL Pattern Scanner
 
 ## Live Application
 
